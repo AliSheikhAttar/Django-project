@@ -1,8 +1,8 @@
 # Django-project
-my first experience in Designing and developing site in Django Framework
-it's about Movie and Series Archive 
-features : Add Object by User, Search, Delete
-Data Base : Sqlite
-Back-end : Django
-Front-end : Html, CSS
-Clients : Web
+my first experience in Designing and developing site in Django Framework <br />
+it's about Movie and Series Archive  <br />
+features : Add Object by User, Search, Delete <br />
+Data Base : Sqlite <br />
+Back-end : Django <br />
+Front-end : Html, CSS <br />
+Clients : Web <br />
